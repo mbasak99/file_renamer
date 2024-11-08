@@ -1,5 +1,5 @@
 # Helpful commands
--building
+- building
 `go build main.go`
--flags for exe
+- flags for exe
 `./main -h`
